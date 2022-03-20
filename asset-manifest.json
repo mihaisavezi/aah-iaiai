@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aah-iaiai/static/css/main.073c9b0a.css",
+    "main.js": "/aah-iaiai/static/js/main.b66873c4.js",
+    "static/js/787.26b6be22.chunk.js": "/aah-iaiai/static/js/787.26b6be22.chunk.js",
+    "static/media/logo.svg": "/aah-iaiai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aah-iaiai/index.html",
+    "main.073c9b0a.css.map": "/aah-iaiai/static/css/main.073c9b0a.css.map",
+    "main.b66873c4.js.map": "/aah-iaiai/static/js/main.b66873c4.js.map",
+    "787.26b6be22.chunk.js.map": "/aah-iaiai/static/js/787.26b6be22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b66873c4.js"
+  ]
+}
